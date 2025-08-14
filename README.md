@@ -114,3 +114,6 @@
 
 ---
 如果你有建議的「攻勢��組 / 吞併整編程序 / 節奏干擾工具」，或想提交對話草稿，歡迎提出！
+## 回合紀錄
+- 使用者：Hi
+- 助手：Hello! How can I assist you with the Novel repository today?
